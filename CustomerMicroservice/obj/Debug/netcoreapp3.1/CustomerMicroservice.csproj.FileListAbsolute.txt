@@ -1,0 +1,87 @@
+F:\Dotnet\MFPE\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Dotnet\MFPE\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Dotnet\MFPE\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\CustomerMicroservice.exe
+F:\Dotnet\MFPE\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\CustomerMicroservice.deps.json
+F:\Dotnet\MFPE\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\CustomerMicroservice.runtimeconfig.json
+F:\Dotnet\MFPE\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\CustomerMicroservice.runtimeconfig.dev.json
+F:\Dotnet\MFPE\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\CustomerMicroservice.dll
+F:\Dotnet\MFPE\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\CustomerMicroservice.pdb
+F:\Dotnet\MFPE\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\Dotnet\MFPE\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\Dotnet\MFPE\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Dotnet\MFPE\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Dotnet\MFPE\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.AssemblyInfoInputs.cache
+F:\Dotnet\MFPE\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.AssemblyInfo.cs
+F:\Dotnet\MFPE\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.csproj.CoreCompileInputs.cache
+F:\Dotnet\MFPE\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.MvcApplicationPartsAssemblyInfo.cs
+F:\Dotnet\MFPE\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.MvcApplicationPartsAssemblyInfo.cache
+F:\Dotnet\MFPE\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\CustomerMicroservice.StaticWebAssets.Manifest.cache
+F:\Dotnet\MFPE\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\CustomerMicroservice.StaticWebAssets.xml
+F:\Dotnet\MFPE\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\CustomerMicroservice.styles.css
+F:\Dotnet\MFPE\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.RazorTargetAssemblyInfo.cache
+F:\Dotnet\MFPE\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.csproj.CopyComplete
+F:\Dotnet\MFPE\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.dll
+F:\Dotnet\MFPE\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.pdb
+F:\Dotnet\MFPE\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.genruntimeconfig.cache
+F:\Dotnet\MFPE\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.csprojAssemblyReference.cache
+F:\Dotnet\MFPE\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+F:\Dotnet\MFPE\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Dotnet\MFPE\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\VickySuriya\source\repos\MFPF_Updated\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\VickySuriya\source\repos\MFPF_Updated\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\VickySuriya\source\repos\MFPF_Updated\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\CustomerMicroservice.exe
+C:\Users\VickySuriya\source\repos\MFPF_Updated\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\CustomerMicroservice.deps.json
+C:\Users\VickySuriya\source\repos\MFPF_Updated\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\CustomerMicroservice.runtimeconfig.json
+C:\Users\VickySuriya\source\repos\MFPF_Updated\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\CustomerMicroservice.runtimeconfig.dev.json
+C:\Users\VickySuriya\source\repos\MFPF_Updated\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\CustomerMicroservice.dll
+C:\Users\VickySuriya\source\repos\MFPF_Updated\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\CustomerMicroservice.pdb
+C:\Users\VickySuriya\source\repos\MFPF_Updated\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\VickySuriya\source\repos\MFPF_Updated\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\VickySuriya\source\repos\MFPF_Updated\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\VickySuriya\source\repos\MFPF_Updated\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\VickySuriya\source\repos\MFPF_Updated\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\VickySuriya\source\repos\MFPF_Updated\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\VickySuriya\source\repos\MFPF_Updated\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\VickySuriya\source\repos\MFPF_Updated\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.AssemblyInfoInputs.cache
+C:\Users\VickySuriya\source\repos\MFPF_Updated\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.AssemblyInfo.cs
+C:\Users\VickySuriya\source\repos\MFPF_Updated\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\VickySuriya\source\repos\MFPF_Updated\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VickySuriya\source\repos\MFPF_Updated\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VickySuriya\source\repos\MFPF_Updated\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\CustomerMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\VickySuriya\source\repos\MFPF_Updated\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\CustomerMicroservice.StaticWebAssets.xml
+C:\Users\VickySuriya\source\repos\MFPF_Updated\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\CustomerMicroservice.styles.css
+C:\Users\VickySuriya\source\repos\MFPF_Updated\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\VickySuriya\source\repos\MFPF_Updated\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.csproj.CopyComplete
+C:\Users\VickySuriya\source\repos\MFPF_Updated\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.dll
+C:\Users\VickySuriya\source\repos\MFPF_Updated\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.pdb
+C:\Users\VickySuriya\source\repos\MFPF_Updated\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.genruntimeconfig.cache
+C:\Users\VickySuriya\source\repos\MFPF_Updated\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.csprojAssemblyReference.cache
+F:\Cognizant Training\updated\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Cognizant Training\updated\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Cognizant Training\updated\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\CustomerMicroservice.exe
+F:\Cognizant Training\updated\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\CustomerMicroservice.deps.json
+F:\Cognizant Training\updated\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\CustomerMicroservice.runtimeconfig.json
+F:\Cognizant Training\updated\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\CustomerMicroservice.runtimeconfig.dev.json
+F:\Cognizant Training\updated\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\CustomerMicroservice.dll
+F:\Cognizant Training\updated\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\CustomerMicroservice.pdb
+F:\Cognizant Training\updated\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+F:\Cognizant Training\updated\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\Cognizant Training\updated\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Cognizant Training\updated\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+F:\Cognizant Training\updated\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\Cognizant Training\updated\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Cognizant Training\updated\CustomerMicroservice\CustomerMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Cognizant Training\updated\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.csprojAssemblyReference.cache
+F:\Cognizant Training\updated\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.AssemblyInfoInputs.cache
+F:\Cognizant Training\updated\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.AssemblyInfo.cs
+F:\Cognizant Training\updated\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.csproj.CoreCompileInputs.cache
+F:\Cognizant Training\updated\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.MvcApplicationPartsAssemblyInfo.cs
+F:\Cognizant Training\updated\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.MvcApplicationPartsAssemblyInfo.cache
+F:\Cognizant Training\updated\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\CustomerMicroservice.StaticWebAssets.Manifest.cache
+F:\Cognizant Training\updated\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\CustomerMicroservice.StaticWebAssets.xml
+F:\Cognizant Training\updated\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\CustomerMicroservice.styles.css
+F:\Cognizant Training\updated\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.RazorTargetAssemblyInfo.cache
+F:\Cognizant Training\updated\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.csproj.CopyComplete
+F:\Cognizant Training\updated\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.dll
+F:\Cognizant Training\updated\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.pdb
+F:\Cognizant Training\updated\CustomerMicroservice\CustomerMicroservice\obj\Debug\netcoreapp3.1\CustomerMicroservice.genruntimeconfig.cache
